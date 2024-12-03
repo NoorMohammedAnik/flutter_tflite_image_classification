@@ -1,0 +1,2 @@
+0 Tupi Detected
+1 Tupi Not Found
